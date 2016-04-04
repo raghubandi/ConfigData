@@ -11,6 +11,6 @@ eureka:
 
 ---
 spring:
-  profiles: production
-project-name: Thing Book
+  profiles:  production
+project-name:  Thing Book
 module-name:  Training
