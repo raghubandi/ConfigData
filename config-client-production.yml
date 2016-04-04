@@ -1,3 +1,16 @@
 ---
 project-name:  ThingBook
 module-name:  Training
+---
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8010/eureka/
+# Items that apply to ALL profiles:
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8010/eureka/,http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
+words: ran,knew,had,saw,bought
+server:
+  port: ${PORT:${SERVER_PORT:0}}
