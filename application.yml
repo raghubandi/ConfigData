@@ -11,6 +11,26 @@ eureka:
 
 ---
 spring:
-  profiles:  production
-project-name:  Thing Book
-module-name:  Training
+  profiles: subject
+words: I,You,He,She,It
+  
+---
+spring:
+  profiles: verb
+words: ran,knew,had,saw,bought
+
+---
+spring:
+  profiles: article
+words: a,the
+
+---
+spring:
+  profiles: adjective
+words: reasonable,outrageous,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: noun
+words: boat,book,vote,seat,backpack,partition,groundhog
+
