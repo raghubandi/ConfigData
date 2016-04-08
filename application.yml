@@ -25,6 +25,11 @@ spring:
 words: a,the
 
 ---
+projectConfig:
+  projectName: ThingBook
+  moduleName: Training
+  
+---
 spring:
   profiles: adjective
 words: reasonable,outrageous,suspicious,ordinary,unlikely
