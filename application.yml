@@ -37,6 +37,6 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 ---
 projectConfig:
   projectName: ThingBook
-  moduleName: Training
+  moduleName: Register
   
 
