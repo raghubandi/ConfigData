@@ -38,5 +38,9 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 projectConfig:
   projectName: ThingBook
   moduleName: Register
+
+---
+words: outrageous,unreasonable,stupidity
+
   
 
