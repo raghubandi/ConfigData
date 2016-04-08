@@ -8,8 +8,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/,http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
-server:
-  port: ${PORT:${SERVER_PORT:0}}
 ---
 spring:
   profiles: subject
@@ -39,9 +37,4 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 projectConfig:
   projectName: ThingBook
   moduleName: Register
-
----
-words: outrageous,unreasonable,stupidity
-
   
-
