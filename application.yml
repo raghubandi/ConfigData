@@ -35,8 +35,8 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 projectConfig:
-  projectName: Thing Book
-  moduleName: perform well
+  projectName: Thing
+  moduleName: perform
 words: reasonable,outrageous,suspicious,ordinary,unlikely
 
   
