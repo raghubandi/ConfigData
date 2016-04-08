@@ -36,7 +36,7 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 ---
 projectConfig:
   projectName: Thing Book
-  moduleName: register manufacurer
+  moduleName: register manufacturer
 words: reasonable,outrageous,suspicious,ordinary,unlikely
 
   
