@@ -16,22 +16,22 @@ words: I,You,He,She,It
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: threw,purchased,had,cought
 
 ---
 spring:
   profiles: article
-words: a,the
+words: a,the,the
 
 ---
 spring:
   profiles: adjective
-words: reasonable,outrageous,suspicious,ordinary,unlikely
+words: beautiful,fabulous,fantastic,humongous
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: mobile,laptop,desktop,tabletPC
 
 ---
 projectConfig:
