@@ -1,3 +1,6 @@
 ---
-projectname:  Thing Book
-lucky-word: Phalguna Lasya
+wordConfig:
+  projectname: Thing Book
+wordConfig:
+  lucky-word: Phalguna Lasya
+  
